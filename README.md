@@ -37,7 +37,6 @@ Task 2 is implemented as a Django web application providing a REST API for calcu
 3. Access the API endpoint: `http://127.0.0.1:8000`
 
 #### API Parameters:
-- **CSV File**: Upload a CSV file via POST request.
 - **File Path**: Specify the file path in the request parameters.
 
 ### Note
